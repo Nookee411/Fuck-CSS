@@ -7,4 +7,5 @@ button.addEventListener("click",()=>{
         sign.style.transform = "translate(-50%,-100vh)";
     },1500);
     sign.style.transform = "translate(-50%,-50%)";
+
 });
